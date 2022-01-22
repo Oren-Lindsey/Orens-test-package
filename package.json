@@ -1,0 +1,11 @@
+{
+  "name": "orens-test-package",
+  "version": "1.3.0",
+  "description": "test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
